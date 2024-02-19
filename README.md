@@ -1,26 +1,26 @@
 Car Price Prediction Model
-This repository contains a Jupyter notebook (Car_Price_Prediction.ipynb) that implements a car price prediction model. The dataset used for this project is sourced from Kaggle and can be found here.
+This repository contains a Jupyter notebook (Car_Price_Prediction.ipynb) that implements a car price prediction model. The dataset used for this project is sourced from Kaggle and can be found [here](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge).
 
 Contents
 1.	Data Cleaning and Preprocessing:<br>
   •	Handling null values and duplicates <br>
-  •	Converting 'Mileage' to an integer
-  •	Simplifying and cleaning columns like 'Engine volume', 'Doors', and 'Turbo'
-  •	Removing outliers
-2.	Exploratory Data Analysis (EDA):
-  •	Exploring relationships between numerical variables
-  •	Visualizing categorical data distribution
-  •	Investigating correlations between numerical features
-3.	Feature Engineering:
-  •	Transforming and encoding categorical variables
-  •	Modifying and simplifying 'Drive wheels' and 'Wheel' columns
-4.	Baseline Models:
-  •	Training and evaluating baseline regression models
-  •	Assessing overfitting using train-test split
-  •	Implementing Random Forest, Decision Tree, KNN, and XGBoost models
-5.	Hyperparameter Tuning:
-  •	Utilizing grid search for Random Forest hyperparameter tuning
-  •	Improving model accuracy with tuned parameters
-6.	Model Evaluation:
-  •	Evaluating final Random Forest model on test data
-  •	Calculating Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE)
+  •	Converting 'Mileage' to an integer <br>
+  •	Simplifying and cleaning columns like 'Engine volume', 'Doors', and 'Turbo' <br>
+  •	Removing outliers <br>
+2.	Exploratory Data Analysis (EDA): <br>
+  •	Exploring relationships between numerical variables <br>
+  •	Visualizing categorical data distribution <br>
+  •	Investigating correlations between numerical features <br>
+3.	Feature Engineering: <br>
+  •	Transforming and encoding categorical variables <br>
+  •	Modifying and simplifying 'Drive wheels' and 'Wheel' columns <br>
+4.	Baseline Models: <br>
+  •	Training and evaluating baseline regression models <br>
+  •	Assessing overfitting using train-test split <br>
+  •	Implementing Random Forest, Decision Tree, KNN, and XGBoost models <br>
+5.	Hyperparameter Tuning: <br>
+  •	Utilizing grid search for Random Forest hyperparameter tuning <br>
+  •	Improving model accuracy with tuned parameters <br>
+6.	Model Evaluation: <br>
+  •	Evaluating final Random Forest model on test data <br>
+  •	Calculating Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE) <br>
