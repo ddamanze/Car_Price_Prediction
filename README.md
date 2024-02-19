@@ -3,7 +3,7 @@ This repository contains a Jupyter notebook (Car_Price_Prediction.ipynb) that im
 
 Contents
 1.	Data Cleaning and Preprocessing:
-  •	Handling null values and duplicates
+  •	Handling null values and duplicates <br>
   •	Converting 'Mileage' to an integer
   •	Simplifying and cleaning columns like 'Engine volume', 'Doors', and 'Turbo'
   •	Removing outliers
