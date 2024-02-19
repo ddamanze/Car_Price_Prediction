@@ -24,4 +24,3 @@ Contents
 6.	Model Evaluation:
   •	Evaluating final Random Forest model on test data
   •	Calculating Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE)
-![image](https://github.com/ddamanze/Car_Price_Prediction/assets/99048535/4f478f74-bd7b-4234-91ee-cc316e00cd9f)
