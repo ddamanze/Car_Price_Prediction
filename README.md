@@ -2,7 +2,7 @@ Car Price Prediction Model
 This repository contains a Jupyter notebook (Car_Price_Prediction.ipynb) that implements a car price prediction model. The dataset used for this project is sourced from Kaggle and can be found here.
 
 Contents
-1.	Data Cleaning and Preprocessing:
+1.	Data Cleaning and Preprocessing:<br>
   •	Handling null values and duplicates <br>
   •	Converting 'Mileage' to an integer
   •	Simplifying and cleaning columns like 'Engine volume', 'Doors', and 'Turbo'
