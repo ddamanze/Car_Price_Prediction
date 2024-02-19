@@ -1,5 +1,5 @@
-Car Price Prediction Model
-This repository contains a Jupyter notebook (Car_Price_Prediction.ipynb) that implements a car price prediction model. The dataset used for this project is sourced from Kaggle and can be found [here](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge).
+Car Price Prediction Model <br>
+This repository contains a python notebook that implements a car price prediction model. The dataset used for this project is sourced from Kaggle and can be found [here](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge).
 
 Contents
 1.	Data Cleaning and Preprocessing:<br>
